@@ -1,2 +1,13 @@
-# my_portfolio
- Hi! Im Hossein Zaman nezhad and this is my porttfolio's site.
+# My Portfolio v0.1
+
+یک پورتفولیوی مدرن و ریسپانسیو
+
+## ویژگی‌ها
+- طراحی واکنش‌گرا
+- قابلیت تغییر تم (تیره/روشن)
+- بهینه شده برای موبایل
+
+## تکنولوژی‌ها
+- HTML5, CSS3, JavaScript
+- Flexbox & Grid
+- Git Version Control

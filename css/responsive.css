@@ -24,4 +24,12 @@
     .nav-item {
         margin: 1rem 0;
     }
+    .logo-img {
+        width: 32px;
+        height: 32px;
+    }
+
+    .logo-text {
+        font-size: 1.2rem;
+    }
 }

@@ -63,7 +63,21 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
     color: var(--primary-color);
+    display: flex;
+    align-items: center;
     text-decoration: none;
+}
+
+.logo-img {
+    width: 40px; /* اندازه مناسب برای لوگو */
+    height: 40px;
+    margin-right: 10px;
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
 }
 
 .nav-menu {
